@@ -18,8 +18,8 @@ appVersion,(app:application),(app) version
 args,(args:arguments),(args)
 arr,(arr:array),(arr)
 AsyncTask,(async:asynchronous),(Async) Task
-atx,(atx:animate to mathvariable),(a t x)
-aty,(aty:animate translation mathvariable),(a t y)
+atx,(at:animate to-x:mathvariable),(a t x)
+aty,(at:animate to-y:mathvariable),(a t y)
 authKey,(auth:authorization),(auth) Key
 av,(av:animation value),(a v)
 b,(b:bytes),(b)

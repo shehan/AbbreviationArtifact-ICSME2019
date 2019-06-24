@@ -3,7 +3,9 @@
 #include <iostream>
 #include <set>
 #include <cctype>
+#include <limits>
 
+//CSV contains 3 columns, so assign a number to each one
 const unsigned int ORIGINAL_IDENTIFIER_COLUMN = 1;
 const unsigned int ABBREV_EXPANSION_COLUMN = 2;
 const unsigned int SPLIT_IDENTIFIER_COLUMN = 3;
@@ -12,8 +14,10 @@ void ParseGoldSet(std::string filename){
     std::set<std::string> count_unique_abbreviations;
     std::ifstream filestream(filename);
     char currentChar;
-    int column = 1;
+    int column = 1; //csv columns are delimited by a ','. This along with the global consts above will help us remember which column we're parsing.
     std::string token;
+    filestream.ignore(std::numeric_limits<std::streamsize>::max(), '\n'); //remove first line because it's a header line
+    
     while(filestream.get(currentChar)){
         switch(currentChar){
             case ',':{

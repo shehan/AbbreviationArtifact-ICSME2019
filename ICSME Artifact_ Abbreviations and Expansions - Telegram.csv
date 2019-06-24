@@ -1,0 +1,361 @@
+Original identifier,(AbbreviationExpansion ...),Split Identifier
+a,(a:index),(a)
+abs,(abs:absolute value),(abs)
+addr,(addr:address),(addr)
+aesIv,(aes:Advanced Encryption Standard-iv:initialization vector),(aes) (IV)
+aesKey,(aes:Advanced Encryption Standard),(aes) key
+animateAddImpl,(impl:implementation),animate add (impl)
+animateRemoveImpl,(impl:implementation),animate remove (impl)
+animateToX,(x:mathvariable),animate to (x)
+animateToY,(y:mathvariable),animate to (y)
+app,(app:application),(app)
+APP_ID,(app:application-id:identifier),(APP) (ID)
+ApplicationInfo,(info:information),application (info)
+applicationInited,(inited:initialized),application (inited)
+appPaused,(app:application),(app) paused
+appResumeCount,(app:application),(app) resume count
+appVersion,(app:application),(app) version
+args,(args:arguments),(args)
+arr,(arr:array),(arr)
+AsyncTask,(async:asynchronous),(Async) Task
+atx,(atx:animate to mathvariable),(a t x)
+aty,(aty:animate translation mathvariable),(a t y)
+authKey,(auth:authorization),(auth) Key
+av,(av:animation value),(a v)
+b,(b:bytes),(b)
+b,(b:index),(b)
+bb,(bb:byte buffer),(bb)
+bindRequestToGuid,(guid:globally unique identifier),bind Request To (G u id)
+buff,(buff:buffer),(buff)
+BuildVars,(vars:variables),build (vars)
+byteBuf,(buf:buffer),byte (Buf)
+bytesToHex,(hex:hexadecimal),bytes To (Hex)
+C,(c:constants),(C)
+cancelRequestsForGuid,(guid:globally unique identifier),cancel Requests For (G u id)
+ChangeInfo,(info:information),change (info)
+channel_id,(id:identifier),channel (id)
+channelIdFInal,(id:identifier),channel (Id) Final
+CharSequence,(char:character),(Char) Sequence
+chat_id,(id:identifier),chat (id)
+checkAppAccount,(app:application),check (app) account
+checkMinMax,(min:minimum-max:maximum),check (min) (max)
+classGuid,(guid:globally unique identifier),class (g u id)
+clipRect,(rect:rectangle),clip (Rect)
+COMPLEX_UNIT_DIP,(dip:device independent pixel),COMPLEX UNIT (D I P)
+computeSHA256,(sha:secure hash algorithm),compute (S H A) 256
+configPath,(config:configuration),(config) path
+convertInfoRow,(info:information),convert (info) row
+coords,(coords:coordinates),(coords)
+coords2,(coords:coordinates-2:distinguisher),(coords) (2)
+cos,(cos:cosine),(cos)
+currentChannelId,(id:identifier),current Channel (Id)
+currentMp4Movie,(mp4: Moving Picture Experts Group),current (mp4) movie
+currentReqId,(req:request-id:identifier),(req) (id)
+currentTimeMillis,(millis:milliseconds),current time (millis)
+currentTranslationX,(x:mathvariable),current translation (x)
+currentTranslationY,(y:mathvariable),current translation (y)
+cx,(c:center-x:mathvariable),(c) (x)
+cy,(c:center-y:mathvariable),(c) (y)
+d,(d:debug),(d)
+d,(d:double),(d)
+datacenterId,(id:identifier),data center (id)
+dataDir,(dir:directory),data (dir)
+dc,(dc:data center),(d c)
+DEFAULT_DATACENTER_ID,(id:identifier),DEFAULT DATACENTER (ID)
+deleteProgressRect,(rect:rectangle),delete progress (rect)
+deltaX,(x:mathvariable),delta (x)
+deltaY,(y:mathvariable),delta (y)
+destroyTtl,(ttl:time to live),destroy (t t l)
+dialog_id,(id:identifier),dialog (id)
+dialog_id,(id:identifier),dialog (id)
+did,(d:draft-id:identifier),(d)(id)
+dinf,(d:data-info:information),(d)(info)
+distanceX,(x:mathvariable),distance (x)
+distanceY,(y:mathvariable),distance (y)
+dnsConfigVersion,(dns:domain name server-config:configuration),(d n s) (config) version
+dp,(dp:device independent pixel),(d p)
+dragY,(y:mathvariable),drag (y)
+dref,(d:data-ref:reference),(d)(ref)
+dt,(dt:delta time),(d t)
+dx,(d:delta-x:mathvariable),(d)(x)
+dy,(d:delta-y:mathvariable),(d)(y)
+e,(e:error),(e)
+e,(e:event),(e)
+e,(e:exception),(e)
+ev,(ev:event),(ev)
+f,(f:file),(f)
+fc,(fc:file channel),(f c)
+flushCurrentMdat,(m:media-dat:data),flush current (m)(dat)
+fos,(fos:file output stream),(f o s)
+fourCCtoBytes,(cc:character code),four (CC) to bytes
+from_id,(id:identifier),from (id)
+fromX,(x:mathvariable),from (x)
+fromY,(y:mathvariable),from (y)
+gcd,(gcd:greatest common denominator),(g c d)
+GcmListenerService,(gcm:Google cloud messaging),(G c m) Listener Service
+GcmPushListenerService,(gcm:Google cloud messaging),(G c m) push listener service
+GcmRegistrationIntentService,(gcm:google cloud messaging),(G C M) Registration Intent Service
+getActiveNetworkInfo,(info:information),get active Network (info)
+getApplicationInfo,(info:information),get application (info)
+getClientUserId,(id:identifier),get Client User (Id)
+getCurrX,(curr:current-x:mathvariable),get (Curr) (X)
+getCurrY,(curr:current-y:mathvariable),get (Curr) (Y)
+getDialogId,(id:identifier),get dialog (id)
+getFilesDirFixed,(dir:directory),get Files (Dir) Fixed
+getId,(id:identifier),get (id)
+getImageX,(x:mathvariable),get image (x)
+getImageY,(y:mathvariable),get image (y)
+getInt,(int:integer),get (Int)
+getIntFromByte,(int:integer),get (Int) From Byte
+getLocaleStringIso639,(iso:international standards organization),get locale string (i s o) 639
+getStartX,(x:mathvariable),get Start (X)
+getStartY,(y:mathvariable),get Start (Y)
+getSystemLocaleStringIso639,(iso:international standards organization),get system locale string (i s o) 639
+getTrackId,(id:identifier),get Track (Id)
+getTranslationX,(x:mathvariable),get translation (x)
+getTranslationY,(y:mathvariable),get translation (y)
+GooglePlayServicesUtil,(util:utility),Google Player Services (util)
+guid,(guid:globally unique identifier),(g u id)
+h,(h:height),(h)
+hdlr,(hdlr:handler),(hdlr)
+heightMeasureSpec,(spec:specification),height measure (spec)
+hexToBytes,(hex:hexadecimal),(hex) to bytes
+holeMessageId,(id:identifier),hole message (id)
+i,(i:integer),(i)
+IBinder,(i:interface),(I) Binder
+ic_ab_back,(ic:icon-ab:action bar),(ic) (ab) back
+ic_done,(ic:icon),(ic) done
+id,(id:identifier),(id)
+IME_ACTION_DONE,(ime:input method editor),(I M E) ACTION DONE
+in,(in:input),(in)
+inbuf,(in:input-buf:buffer),(in) (buf)
+info,(info:information),(info)
+infoList,(info:information),(info) list
+initNativeLibs,(init:initialize-libs:libraries),(init) native (libs)
+initPlayServices,(init:initialize),(init) play services
+int,(int:integer),(int)
+InterleaveChunkMdat,(m:media-dat:data),Interleave Chunk (m)(dat)
+intValue,(int:integer),(int) Value
+invalidcoords,(coords:coordinates),invalid (coords)
+IOException,(io:input output),(i o) exception
+ip,(ip:internet protocol),(i p)
+ipAddress,(ip:internet protocol),(i p) address
+is,(is:input stream),(is)
+isGifDocument,(gif:graphics interchange format),is (G i f) Document
+IsoFile,(iso:international standards organization),(iso) File
+IsoTypeWriter,(iso:international standards organization),(iso) type writer
+isOut,(out:output),is (out)
+isRTL,(rtl:right to left),is (RTL)
+JSONObject,(json:javascript object notation),(JSON) Object
+justCalc,(calc:calculate),just (calc)
+l,(l:length),(l)
+l,(l:limit),(l)
+langCode,(lang:language),(lang) code
+lastAppPauseTime,(app:application),last (app) Pause Time
+lastClassGuid,(guid:globally unique identifier),last Class (G u id)
+lastDnsRequestTime,(dns:domain name server),last (d n s) request time
+lastMergeDialogId,(id:identifier),last merge dialog (id)
+lastReqId,(req:request-id:identifier),last (req)(id)
+lastReturnedNum,(num:number),last returned (num)
+LayoutParams,(params:parameters),layout (params)
+len,(len:length),(len)
+loadConfig,(config:configuration),load (config)
+lower_id,(id:identifier),lower (id)
+mAddAnimations,(m:member),(m) add animations
+mAdditionsList,(m:member),(m) additions list
+max,(max:maximum),(max)
+max_id,(max:maximum-id:identifier),(max) (id)
+MAX_VALUE,(max:maximum),(MAX) VALUE
+maxH,(max:maximum-h:height),(max) (h)
+maxValue,(max:maximum),(max) value
+maxW,(max:maximum-w:width),(max) (w)
+maxX,(max:maximum-x:mathvariable),(max) (x)
+maxY,(max:maximum-y:mathvariable),(max) (y)
+mChangeAnimations,(m:member),(m) change animations
+mChangesList,(m:member),(m) changes list
+mContext,(m:member),(m) context
+mdat,(m:media-dat:data),(m)(dat)
+mdhd,(md:media-hd:header),(md) (hd)
+mdia,(mdia:media),(mdia)
+MeasureSpec,(spec:specification),measure (spec)
+MEDIA_URL,(url:uniform resource locator),MEDIA (U R L)
+mediaDidLoaded,(d:draft-id:identifier),media (D)(id) Loaded
+mergeDialogId,(id:identifier),merge Dialog (Id)
+mergeReqId,(req:request-id:identifier),merge (req) (id)
+messageId,(id:identifier),message (id)
+messageIdFinal,(id:identifier),message (Id) Final
+messageMaxId,(max:maximum-id:identifier),message (Max) (id)
+messageRes,(res:response),message (Res)
+mid,(m:message-id:identifier),(m) (id)
+mids,(m:message-ids:identifiers),(m) (ids)
+min,(min:minimum),(min)
+minf,(m:media-inf:information),(m) (inf)
+minId,(id:identifier),min (Id)
+minX,(min:minimum-x:mathvariable),(min) (x)
+minY,(min:minimum-y:mathvariable),(min) (y)
+mkdirs,(mk:make-dirs:directories),(mk) (dirs)
+mMoveAnimations,(m:member),(m) move animations
+mMovesList,(m:member),(m) moves list
+moov,(moov:moviebox),(moov)
+moveDx,(d:delta-x:mathvariable),move (d)(x)
+moveDy,(d:delta-x:mathvariable),move (d)(y)
+MoveInfo,(info:information),move (info)
+moveStartX,(x:mathvariable),move start (x)
+moveStartY,(y:mathvariable),move start (y)
+mPendingAdditions,(m:member),(m) pending additions
+mPendingChanges,(m:member),(m) Pending changes
+mPendingMoves,(m:member),(m) Pending Moves
+mPendingRemovals,(m:member),(m) pending removals
+mReceiver,(m:member),(m) receiver
+mRemoveAnimations,(m:member),(m) remove animations
+msTime,(ms:milliseconds),(ms) time
+mvhd,(mv:movie-hd:header),(mv) (hd)
+native_bindRequestToGuid,(guid:globally unique identifier),native bind request to (guid)
+native_cancelRequestsForGuid,(guid:globally unique identifier),native cancel requests for (guid)
+netInfo,(net:network-info:information),(net) (info)
+NetworkInfo,(info:information),Network (Info)
+newConfig,(config:configuration),new (config)
+newTx,(t:translation-x:mathvariable),new (t)(x)
+newTy,(t:translation-y:mathvariable),new (t)(y)
+NOTIFICATION_ID,(id:identifier),notification (ID)
+obj,(obj:object),(obj)
+offset_id,(id:identifier),offset (id)
+oldViewAnim,(anim:animator),old view (anim)
+onQuickAck,(ack:acknowledge),on Quick (Ack)
+Os,(os:operating system),(O s)
+out,(out:output),(out)
+outbuf,(out:output-buf:buffer),(out) (buf)
+PackageInfo,(info:information),package (info)
+pinchCenterX,(x:mathvariable),pinch center (x)
+pinchCenterY,(y:mathvariable),pinch center (y)
+pinchStartX,(x:mathvariable),pinch start (x)
+pinchStartY,(y:mathvariable),pinch start (y)
+pInfo,(p:package-info:information),(p) (info)
+pintent,(p:pending),(p) intent
+pm,(pm:power manager),(p m)
+postInitApplication,(init:initialize),post (init) application
+prevAlpha,(prev:previous),(prev) Alpha
+prevTranslationX,(prev:previous-x:mathvariable),(prev) Translation (x)
+prevTranslationY,(prev:previous-y:mathvariable),(prev) Translation (y)
+putInt,(int:integer),put (Int)
+q,(q:query),(q)
+quickAckBlock,(ack:acknowledge),quick (Ack) Block
+QuickAckDelegate,(ack:acknowledge),Quick (Ack) Delegate
+R,(r:resource),(R)
+rad,(rad:radian),(rad)
+radProgress,(rad:radian),(rad) progress
+radProgress,(rad:radian),(rad) progress
+readBool,(bool:boolean),read (Bool)
+readBool,(bool:boolean),read (Bool)
+readInt32,(int:integer),read (Int) 32
+readInt32,(int:integer),read (Int) 32
+readInt64,(int:integer),read (int) 64 
+readInt64,(int:integer),read (int) 64
+Rect,(rect:rectangle),(Rect)
+Rect,(rect:rectangle),(Rect)
+RectF,(rect:rectangle-f:float),(Rect)(F)
+RectF,(rect:rectangle-f:float),(Rect)(F)
+reply_to_msg_id,(msg:message-id:identifier),reply to (msg) (id)
+reply_to_msg_id,(msg:message-id:identifier),reply to (msg) (id)
+req,(req:request),(req)
+req,(req:request),(req)
+reqId,(req:request-id:identifier),(req) (id)
+RequestFlagNeedQuickAck,(ack:acknowledge),Request Flag Need Quick (Ack)
+RequestFlagTryDifferentDc,(dc:datacenter),Request Flag Try Different (Dc)
+res,(res:response),(res)
+resp,(resp:response),(resp)
+resp,(resp:response),(resp)
+runOnUIThread,(ui:user interface),run On (U I) thread
+runOnUIThread,(ui:user interface),run On (U I) thread
+runOnUIThread,(ui:user interface),run On (U I) thread
+s,(s:string),(s)
+saveConfig,(config:configuration),save (config)
+sc,(sc:scale canvas),(s c)
+scaleDiff,(diff:difference),scale (diff)
+SDK_INT,(sdk:Software Development Kit-int:integer),(S D K) (INT)
+setImageCoords,(coords:coordinates),set image (coords)
+setImeOptions,(ime:input method editor),set (i m e) options
+setNextTrackId,(id:identifier),set Next Track (Id)
+setScaleX,(x:mathvariable),set scale (x)
+setScaleY,(y:mathvariable),set scale (y)
+setTrackId,(id:identifier),set Track (Id)
+setTranslationX,(x:mathvariable),set translation (x)
+setTranslationY,(y:mathvariable),set translation (y)
+sha256_a,(sha:Secure Hash Algorithm-a:distinguisher),(s h a) 256 (a)
+sin,(sin:sine),(sin)
+SQLiteCursor,(sq:structured query),(SQ) Lite Cusor
+SQLiteCursor,(sq:strutured query),(SQ) lite cursor
+SQLiteDatabase,(sq:strutured query),(SQ) lite database
+SQLitePreparedStatement,(sq:strutured query),(SQ) lite prepared statement
+stat,(stat:struct stat),(stat)
+stbl,(stbl:sample table),(s tbl)
+stco,(stco:sample table chunk offset),(stco)
+stsc,(stsc:sample table sample chunk map),(stsc)
+stss,(stss:sample table sync samples),(stss)
+stsz,(stsz:sample table sizes),(stsz)
+stts,(stts:sample table time sample map),(stts)
+sync,(sync:synchronize),(sync)
+systemLangCode,(lang:language),system (lang) code
+TextUtils,(utils:utilities),text (utils)
+tkhd,(tk:track-hd:header),(tk)(hd)
+TL_account_reportPeer,(tl:telegram),(TL) account report peer
+TL_channels_getMessages,(tl:telegram),(TL) channels get Messages
+TL_DraftMesageEmpty,(tl:telegram),(TL) Draft Messsage Empty
+TL_draftMessage,(tl:telegram),(TL) draft Message
+TL_error,(tl:telegram),(TL) Error
+TL_inputMediaPhoto,(tl:telegram-photo:photograph),(TL) input Media (Photo)
+TL_inputMessagesFilterDocument,(tl:telegram),(TL) input messages Filter Document
+TL_inputMessagesFilterEmpty,(tl:telegram),(TL) input Messages Filter Empty
+TL_inputMessagesFilterMusic,(tl:telegram),(TL) input messages Filter Music
+TL_inputMessagesFilterUrl,(tl:telegram-url:universal resource locator),(TL) input messages filter (u r l)
+TL_inputMessagesFilterVoice,(tl:telegram),(TL) input messages Filter Voice
+TL_messageActionHistoryClear,(tl:telegram),(TL) message Action History Clear
+TL_messageEntityTextUrl,(tl:telegram-url:universal resource locator),(TL) input message Entity Text (U r l)
+TL_messageEntityUrl,(tl:telegram-url:universal resource locator),(TL) input message Entity (U r l)
+TL_messages_channelMessages,(tl:telegram),(TL) messages channel Messages
+TL_messages_getAllDrafts,(tl:telegram),(TL) messages get all drafts
+TL_messages_getMessages,(tl:telegram),(TL) messages get Messages
+TL_messages_messageSlice,(tl:telegram),(TL) messages message Slice
+TL_messages_saveDraft,(tl:telegram),(TL) messages save Draft
+TL_messages_search,(tl:telegram),(TL) messages search
+TL_updates,(tl:telegram),(TL) updates
+TL_updateServiceNotification,(tl:telegram),(TL) update Service Notification
+TLdeserialize,(tl:telegram),(TL) deserialize
+TLObject,(tl:telegram),(TL) Object
+TLRPC,(tlrpc:telegram remote procedure call),(TL R P C)
+TLRPC,(tlrpc:telegram remote procedure call),(TLRPC)
+to_id,(id:identifier),to (id)
+track2SampleSizes,(2:to),track (2) Sample Sizes
+ttl,(ttl:time to live),(ttl)
+ttl_seconds,(ttl:time to live),(ttl) seconds
+TYPE_TEXT_FLAG_AUTO_CORRECT,(auto:automatically),type text flag (auto) correct
+TYPE_TEXT_FLAG_CAP_SENTENCES,(cap:capitalize),type text flag (cap) sentences
+TYPE_TEXT_FLAG_MULTI_LINE,(multi:multiple),type text flag (multi) line
+u,(u:user),(u)
+uid,(u:unique-id:identifier),(u) (id)
+updateMinMax,(min:minimum-max:maximum),update (min) (max)
+Uri,(uri:universal resource identifier),(u r i)
+url,(url:uniform resource locator),(u r l)
+US,(us:united states),(US)
+UserConfig,(config:configuration),user (config)
+usersDict,(dict:dictionary),users (dict)
+v,(v:view),(v)
+velocityX,(x:mathvariable),velocity (x)
+velocityY,(y:mathvariable),velocity (y)
+ViewCompat,(compat:compatibility),view (compat)
+ViewPropertyAnimatorCompat,(compat:compatibility),view property animator (compat)
+VpaListenerAdapter,(vpa:view property animator),(v p a) listener adapter
+vx,(v:velocity-x:mathvariable),(v)(x)
+vy,(v:velocity-y:mathvariable),(v)(y)
+widthMeasureSpec,(spec:specification),width measure (spec)
+windowLayoutParams,(params:parameters),window Layout (Params)
+wm,(wm:windows manager),(wm)
+writeBool,(bool:boolean),write (Bool)
+writedSinceLastMdat,(m:media-dat:data),writed Since Last (M) (dat)
+writeInt32,(int:integer),write (Int) 32
+writeInt64,(int:integer),write (Int) 64
+writeNewMdat,(m:media-dat:data),write new (m) (dat)
+writeUInt32,(u:unsigned-int:integer),write (U)(Int) 32
+writeUInt64,(u:unsigned-int:integer),write (U)(Int) 64
+x,(x:integer),(x)
+x,(x:offset),(x)

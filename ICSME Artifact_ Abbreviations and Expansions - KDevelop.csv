@@ -1,4 +1,4 @@
-Original identifier,{AbbreviationExpansion:Position ...},Split Identifier
+Original identifier,"(Abbreviation:Expansion,...)",Split Identifier
 locationIdx,(idx:Index),location (Idx)
 fl,(fl:flock),(fl)
 sem_name,(sem:semaphore),(sem) name

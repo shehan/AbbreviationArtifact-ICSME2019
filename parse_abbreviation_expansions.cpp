@@ -11,7 +11,6 @@ const unsigned int ABBREV_EXPANSION_COLUMN = 2;
 const unsigned int SPLIT_IDENTIFIER_COLUMN = 3;
 
 void ParseGoldSet(std::string filename){
-    std::set<std::string> count_unique_abbreviations;
     std::ifstream filestream(filename);
     char currentChar;
     int column = 1; //csv columns are delimited by a ','. This along with the global consts above will help us remember which column we're parsing.
@@ -34,14 +33,12 @@ void ParseGoldSet(std::string filename){
                                 seencolon = true;
                             }
                             if(c == '-'){
-                                count_unique_abbreviations.insert(abbrev +":"+expansion);
                                 std::cout<<"Abbrev and Expansion: "<<abbrev +":"+expansion<<std::endl;
                                 abbrev.clear();
                                 expansion.clear();
                                 seencolon = false;
                             }
                             if(c == ')'){
-                                count_unique_abbreviations.insert(abbrev +":"+expansion);
                                 std::cout<<"Abbrev and Expansion: "<<abbrev +":"+expansion<<std::endl;
                                 abbrev.clear();
                                 expansion.clear();
@@ -78,7 +75,6 @@ void ParseGoldSet(std::string filename){
         }
 
     }
-    std::cerr<<count_unique_abbreviations.size()<<std::endl;
 }
 
 int main(int argc, char** argv){

@@ -1,4 +1,4 @@
-Original identifier,AbbreviationExpansion,Split Identifier
+Original identifier,"(Abbreviation:Expansion,...)",Split Identifier
 aCheckNameHdl,(a:value-hdl:handle),(a) check name (hdl)
 aIter,(a:value-iter:iterator),(a) (iter)
 aModSizeException,(a:value-mod:module),(a)(mod) Size Exception
@@ -121,7 +121,7 @@ nToken,(n:number),(n) token
 netbsd,(net:network-bsd:berkley software distribution),(net) (bsd)
 DONTKNOW,(nt:not),Do (nt) know
 obj_any,(obj:object),(obj) any
-osl_postcond,(osl:operating system library-postcond:post condition),osl (postcond)
+osl_postcond,(osl:operating system library-cond:condition),osl post (cond)
 osl_assert,(osl:operating system library),(o s l)
 pAddr,(p:pointer-addr:address),(p) addr
 pAttrSet,(p:pointer-attr:attribute),(p) (attr) set

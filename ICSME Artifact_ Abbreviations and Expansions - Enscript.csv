@@ -1,4 +1,4 @@
-Original identifier,(AbbreviationExpansion ...),Split Identifier
+Original identifier,"(Abbreviation:Expansion,...)",Split Identifier
 afm,(afm:adobe font metrics),(a f m)
 afm_cache,(afm:adobe font metrics),(a f m) cache
 afm_info_cache,(afm:adobe font metrics-info:information),(afm) (info) cache
@@ -9,8 +9,8 @@ append_ctrl_D,(ctrl:control-d:distinguisher),(ctrl) (D)
 argc,(arg:argument-c:count),(arg)(c)
 argv,(arg:argument-v:value),(arg)(v)
 atan2,(atan:arctangent-2:distinguisher),(atan) (2)
-atof,(a:ascii-f:float),(a) to (f)
-atoi,(a:ascii-i:integer),(a) to (i)
+atof,(a:American Standard Code for Information Interchange-f:float),(a) to (f)
+atoi,(a:American Standard Code for Information Interchange-i:integer),(a) to (i)
 b,(b:blue),(b)
 bgcolor,(bg:background),(bg) color
 bs,(bs:backspace),(bs)
@@ -124,7 +124,7 @@ int,(int:integer),(int)
 is,(is:input stream),(i s)
 is_getc,(is:input stream-c:character),(is) get (c)
 is_toc,(toc:table of contents),is (t o c)
-j,(j:index),(j)
+,,
 kv,(kv:key value),(kv)
 last_was_cr,(c:carriage-r:return),last was (c)(r)
 LE_CHAR_WRAP,(le:line end-char:character),(le) (char) wrap
@@ -268,7 +268,7 @@ var,(var:variable),(var)
 w,(w:width),(w)
 w0x,(w:character width-0:distinguisher-x:mathvariable),(w) (0) (x)
 w0y,(w:character width-0:distinguisher-y:mathvariable),(w) (0) (y)
-x,(x:xoffset),(x)
+x,(x:offset),(x)
 xcalloc,(x:checked-calloc:contiguous allocate),(x) (calloc)
 xfree,(x:checked),(x) free
 xmalloc,(x:checked-malloc:memory allocate),(x) (malloc)

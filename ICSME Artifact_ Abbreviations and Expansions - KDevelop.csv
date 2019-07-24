@@ -65,7 +65,7 @@ setParensUnPaddingMode,(Parens:Parentheses),set (Parens) Un Padding Mode
 quoteChar_,(Char:Character),quote (Char)
 charsToInsert,(Chars:Characters),(chars) To Insert
 startChar,(Char:Character),start (Char)
-ch,(Char:Character),(char)
+ch,(ch:Character),(char)
 charsToErase,(Chars:Characters),(chars) To Erase
 buildNonParenHeaders,(Paren:Parenthesis),build Non (Paren) Headers
 buildNonParenHeaders,(Paren:Parentheses),build Non (Paren) Headers

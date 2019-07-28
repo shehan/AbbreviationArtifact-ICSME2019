@@ -16,7 +16,8 @@ void ParseGoldSet(std::string filename){
     int column = 1; //csv columns are delimited by a ','. This along with the global consts above will help us remember which column we're parsing.
     std::string token;
     filestream.ignore(std::numeric_limits<std::streamsize>::max(), '\n'); //remove first line because it's a header line
-    
+    std::set<std::string> abbrevs;
+    std::set<std::string> abbrevexpansions;
     while(filestream.get(currentChar)){
         switch(currentChar){
             case ',':{
@@ -34,12 +35,16 @@ void ParseGoldSet(std::string filename){
                             }
                             if(c == '-'){
                                 std::cout<<"Abbrev and Expansion: "<<abbrev +":"+expansion<<std::endl;
+                                abbrevs.insert(abbrev);
+                                abbrevexpansions.insert(abbrev+expansion);
                                 abbrev.clear();
                                 expansion.clear();
                                 seencolon = false;
                             }
                             if(c == ')'){
                                 std::cout<<"Abbrev and Expansion: "<<abbrev +":"+expansion<<std::endl;
+                                abbrevs.insert(abbrev);
+                                abbrevexpansions.insert(abbrev+expansion);
                                 abbrev.clear();
                                 expansion.clear();
                                 seencolon = false;
@@ -75,6 +80,8 @@ void ParseGoldSet(std::string filename){
         }
 
     }
+    std::cerr<<"A: "<<abbrevs.size()<<std::endl;
+    std::cerr<<"AEX: "<<abbrevexpansions.size()<<std::endl;
 }
 
 int main(int argc, char** argv){

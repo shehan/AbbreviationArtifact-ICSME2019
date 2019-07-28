@@ -19,8 +19,8 @@ lastAppPauseTime,(app:application),last (app) Pause Time
 args,(args:arguments),(args)
 arr,(arr:array),(arr)
 AsyncTask,(async:asynchronous),(Async) Task
-atx,(at:animate to-x:mathvariable),(a t x)
-aty,(at:animate to-y:mathvariable),(a t y)
+atx,(at:animate to-x:mathvariable),(at)(x)
+aty,(at:animate to-y:mathvariable),(at)(y)
 authKey,(auth:authorization),(auth) Key
 TYPE_TEXT_FLAG_AUTO_CORRECT,(auto:automatically),type text flag (auto) correct
 av,(av:animation value),(a v)

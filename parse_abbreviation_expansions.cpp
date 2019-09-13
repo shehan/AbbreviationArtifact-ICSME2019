@@ -3,21 +3,17 @@
 #include <iostream>
 #include <set>
 #include <cctype>
-#include <limits>
 
-//CSV contains 3 columns, so assign a number to each one
 const unsigned int ORIGINAL_IDENTIFIER_COLUMN = 1;
 const unsigned int ABBREV_EXPANSION_COLUMN = 2;
 const unsigned int SPLIT_IDENTIFIER_COLUMN = 3;
 
 void ParseGoldSet(std::string filename){
+    std::set<std::string> count_unique_abbreviations;
     std::ifstream filestream(filename);
     char currentChar;
-    int column = 1; //csv columns are delimited by a ','. This along with the global consts above will help us remember which column we're parsing.
+    int column = 1;
     std::string token;
-    filestream.ignore(std::numeric_limits<std::streamsize>::max(), '\n'); //remove first line because it's a header line
-    std::set<std::string> abbrevs;
-    std::set<std::string> abbrevexpansions;
     while(filestream.get(currentChar)){
         switch(currentChar){
             case ',':{
@@ -34,17 +30,15 @@ void ParseGoldSet(std::string filename){
                                 seencolon = true;
                             }
                             if(c == '-'){
+                                count_unique_abbreviations.insert(abbrev +":"+expansion);
                                 std::cout<<"Abbrev and Expansion: "<<abbrev +":"+expansion<<std::endl;
-                                abbrevs.insert(abbrev);
-                                abbrevexpansions.insert(abbrev+expansion);
                                 abbrev.clear();
                                 expansion.clear();
                                 seencolon = false;
                             }
                             if(c == ')'){
+                                count_unique_abbreviations.insert(abbrev +":"+expansion);
                                 std::cout<<"Abbrev and Expansion: "<<abbrev +":"+expansion<<std::endl;
-                                abbrevs.insert(abbrev);
-                                abbrevexpansions.insert(abbrev+expansion);
                                 abbrev.clear();
                                 expansion.clear();
                                 seencolon = false;
@@ -80,8 +74,7 @@ void ParseGoldSet(std::string filename){
         }
 
     }
-    std::cerr<<"A: "<<abbrevs.size()<<std::endl;
-    std::cerr<<"AEX: "<<abbrevexpansions.size()<<std::endl;
+    std::cerr<<count_unique_abbreviations.size()<<std::endl;
 }
 
 int main(int argc, char** argv){

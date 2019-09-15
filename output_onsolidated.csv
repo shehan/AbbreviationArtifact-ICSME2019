@@ -1,0 +1,703 @@
+Id,Abbreviation,Expansion
+370,0,distinguisher
+266,1,distinguisher
+53,2,distinguisher
+0,2,to
+72,3,distinguisher
+295,32,distinguisher
+88,8,distinguisher
+17,a,value
+238,a,args
+169,a,action
+187,a,distinguisher
+0,a,mathvariable;first coefficient of elliptic curve a
+15,a,american standard code for information interchange
+117,a,mathvariable; first coefficient of elliptic curve a
+1,a,mathvariable;parameter a of the weierstrass representation
+309,aad,additional authenticated data
+118,ab,action bar
+3,abs,absolute value
+96,abst,abstract
+3,ack,acknowledge
+200,acos,arccosine
+201,acos,inverse cosine
+203,acosh,hyperbolic arccosine
+202,acosh,inverse hyperbolic cosine
+204,acot,inverse cotangent
+205,acot,arccotangent
+206,acoth,inverse hyperbolic cotangent
+207,acoth,hyperbolic arccotangent
+142,act,action
+6,act,activation
+195,addr,address
+295,aes,advanced encrpytion standard
+7,aes,advanced encryption standard
+0,afm,adobe font metrics
+259,align,alignment
+121,alloc,allocate
+278,alloc,allocat
+22,alt,alternate
+10,anim,animator
+23,anon,anonymous
+24,api,application programmer interface
+16,app,application
+236,approx,approximately
+11,arg,argument
+246,args,arguments
+20,arr,array
+269,ascii,american standard code information exchange
+79,ascii,american standard code information interchange
+208,asin,inverse sine
+209,asin,arcsine
+211,asinh,hyperbolic inverse sine
+210,asinh,hyperbolic arcsine
+21,async,asynchronous
+22,at,animate to
+13,atan,arctangent
+213,atan,inverse tangent
+215,atanh,hyperbolic inverse tangent
+214,atanh,hyperbolic arctangent
+197,attr,attribute
+222,attrs,attributes
+26,atts,attributes
+26,auth,authorization
+27,auto,automatically
+28,av,animation value
+145,b,bounding
+100,b,byte
+123,b,mathvariable;second coefficient of elliptic curve b
+147,b,button
+83,b,distinguisher
+252,b,bottom
+29,b,boolean
+19,b,blue
+10,b,mathvariable;parameter b of the weierstrass representation
+29,b,bytes
+30,bb,byte buffer
+178,ber,basic encoding rules
+361,bg,background
+37,bk,break
+33,bool,boolean
+272,br, bottom right
+21,bs,backspace
+188,bsd,berkley software distribution
+327,btn,button
+34,buf,buffer
+35,buff,buffer
+185,c,carriage
+190,c,col
+335,c,c programming language
+277,c,condition
+171,c,collection
+182,c,character
+144,c,color
+264,c,cell
+36,c,center
+192,c,columns
+10,c,count
+289,c,channels
+40,c,constants
+18,c,cipher
+134,c,current
+149,calc,calculate
+377,calloc,contiguous allocate
+42,cap,capitalize
+296,cbc,cipher block chaining
+43,cc,character code
+337,cc,c++ programming language
+282,ccs,color conversion system
+216,ceil,ceiling
+32,cfg,configure
+138,cfg,config
+340,cfg,configuration
+131,cg,color group
+80,ch,character
+44,char,character
+214,chars,characters
+297,chr,character
+20,cis,cipher input stream
+42,cmd, command
+34,cmd,command
+330,cmp,compare
+40,cnt,content
+21,cnt,count
+276,co,conditional
+26,coeff,coefficient
+37,cofp,current output file pointer
+38,col,column
+193,cols,columns
+217,combin,combine
+218,combina,combination
+45,compat,compatibility
+274,compl,completion
+245,cond,condition
+385,conf,configure
+50,config,configuration
+269,config,configure
+54,conn,connection
+263,const,constant
+247,conv,convert
+56,coords,coordinates
+339,corr,correct
+57,cos,cosine
+22,cos,cipher output stream
+219,cot,cotangent
+220,coth,hyperbolic cotangent
+40,cour,courier
+42,cp,character pointer
+126,cpu,central processing unit
+132,cr,color role
+25,crt,chinese remainder theorem
+152,cs,color space
+34,csv,comma separated values
+33,ct,cipher text
+7,ctrl,control
+140,ctx,context
+45,cur,current
+182,curr,current
+158,cwd,current working directory
+78,d,draft
+62,d,data
+66,d,debug
+67,d,delta
+75,d,double
+55,d,dimension
+273,d,damage
+281,d,device
+8,d,distinguisher
+154,d,double spin box
+108,d,docker
+35,d,mathvariable;private exponent d
+114,d,document
+194,dat,data
+46,db,database
+256,db,delta bottom
+279,dbg,debug
+123,dbl,double
+80,dc,data center
+81,dc,datacenter
+109,dcop,desktop communication protocol library
+36,dec,decryption
+50,decl,declare
+51,def,define
+179,der,distinguished encoding rules
+347,desc,description
+342,desc,describe
+249,dev,deviation
+286,dh,diffie hellman
+284,dict,dictionary
+83,diff,difference
+84,dip,device independent pixel
+118,dir,directory
+251,dirs,directories
+242,div,divide
+80,dk,denmark
+254,dl,delta left
+49,dlg,dialog
+87,dns,domain name server
+111,doc,document
+268,dom,document object model
+52,dos,disk operating system
+90,dp,device independent pixel
+45,dp,mathvariable;prime exponent p
+146,dpi,dots per inch
+46,dq,mathvariable;prime exponent q
+255,dr,delta right
+47,dsa,digital signature algorithm
+272,dsc,document structuring conventions
+116,dst,destination
+253,dt,delta top
+91,dt,delta time
+167,dw,dock widget
+55,dw,double word
+60,e,enumerator
+55,e,mathvariable;public exponent e
+94,e,exception
+93,e,event
+92,e,error
+58,e,enumeration
+5,eax,encrypt authenticate translate
+78,ec,elliptic curve
+301,ecb,electronic code book
+304,ecdhc,elliptic curve diffie hellman cofactor
+130,ek,encryption key
+99,elem,element
+104,enc,encode
+63,eng,engine
+106,enum,enumerator
+164,env,environment
+303,eof,end of file
+243,eps,epsilon
+270,eps,encapsulated postscript
+116,epsf,encapsulated postscript file
+101,eq,equals
+53,err,error
+108,errno,error number
+128,esc,escape
+95,ev,event
+196,eval,evaluate
+229,evt,event
+102,ex,exception
+195,ex,expression
+26,exec,execute
+229,exp,exponent
+52,expr,expression
+48,ext,extension
+154,f,font
+156,f,file
+71,f,segment
+194,f,formula
+69,f,float
+250,f,function
+290,f,format
+130,f,flag
+107,f,mathvariable;greatest common denominator f
+172,f,factory
+170,f,files
+198,fabs,floating point absolute value
+244,fac,factorial
+97,fc,file channel
+84,fi,finland
+163,fi,file
+221,fib,fibonacci
+72,fini,finish
+1,fl,flock
+79,fm,file map
+263,fm,font metrics
+28,fmt,format
+239,fn,function
+98,fos,file output stream
+108,fp,finite prime
+235,func,function
+151,fw,frame width
+82,g,global
+135,g,mathvariable;dsa base g
+110,g,groups
+109,g,generator
+157,g,green
+111,gcd,greatest common denominator
+113,gcm,galois counter mode
+100,gcm,google cloud messaging
+74,gen,generator
+148,geom,geometry
+103,gif,graphics interchange format
+83,gp,global pointer
+153,grad,gradient
+139,grp,group
+161,gs,gnu enscript
+179,gui,graphical user interface
+109,guid,globally unique identifier
+160,gy,mathvariable;y coordinate of generator
+163,h,height
+354,h,handler
+260,h,horizontal
+162,h,mathvariable;truncated messaage digest
+140,h,header
+161,h,mathvariable;cofactor
+338,hd,header
+226,hdl,handle
+112,hdlr,handler
+285,hdr,header
+113,hex,hexadecimal
+168,hf,header font
+163,hi,high
+171,hl,highlight
+57,hor,horizontal
+87,hp,hewlett packard
+41,http,hypertext transfer protocol
+18,i,integer
+116,i,interface
+87,i,index
+90,ibm,international business machines
+117,ic,icon
+46,id,identifier
+87,id,identfication
+9,id,identificaion
+280,id,input device
+49,ident,identifier
+221,ids,identifiers
+0,idx,index
+79,ies,integrated encryption scheme
+404,ifc,interface
+165,ike,internet key exchange
+147,ime,input method editor
+134,img,image
+395,impl,implementation
+95,impl,implement
+152,in,input
+204,inf,information
+156,info,information
+29,init,initialize
+167,inited,initialized
+377,int,integer
+179,io,input output
+180,ip,internet protocol
+124,ir, icons rectangle
+175,is,input stream
+183,iso,international standards organization
+71,it,iterator
+161,iter,iterator
+180,iv,initialization vector
+219,jdk,javase development kit
+291,jis,japanese industrial standards
+183,json,javascript object notation
+104,k,mathvariable;encryption signature integer ecdsa variable k
+112,k,kde
+175,k,key
+185,k,mathvariable;encryption signature integer variable k
+186,ka,key agreement
+190,kem,key encapsulation mechanism
+192,kf,key factory
+104,ko,kde office
+97,koi,kod obmena informatsiey
+184,kv,key value
+193,l,mathvariable;weak public key variable l
+177,l,list
+188,l,length
+189,l,limit
+290,lab,cielab color space
+194,lang,language
+165,lc,locale
+223,lcm,lowest common multipe
+187,le,line end
+90,len,length
+198,lhs,left hand side
+189,lib,library
+164,libs,libraries
+194,ll,lower left
+224,ln,natural log
+233,ln,line
+104,lnk,link
+199,lo,low
+399,loc,locator
+225,log,logarithm
+156,low,lower
+105,lp,long pointer
+23,lsb,least significant bit
+107,lst,list
+128,m,member
+99,m,multi
+314,m,month
+218,m,message
+198,m,mask
+203,m,media
+159,m,memory
+240,m,min
+99,mac,macintosh
+277,machdep,machine dependent
+380,malloc,memory allocate
+200,max,maximum
+237,md,media
+202,md,message digest
+226,mdeterm,matrix determinant
+239,mdia,media
+121,me,mouse event
+161,mem,memory
+202,memcpy,memory copy
+365,mess,message
+203,mfp,message file pointer
+203,mgf,mask generation function
+255,mgr,manager
+275,mid,middle
+240,millis,milliseconds
+205,min,minimum
+316,min,minute
+227,minverse,matrix inverse
+181,misc,miscellaneous
+250,mk,make
+229,mmult,matrix multiplication
+206,mod,modulo
+205,mod,modification
+5,mod,module
+318,mon,month
+252,moov,moviebox
+185,mp,master page
+253,mp4, moving picture experts group
+56,ms,millisecond
+254,ms,milliseconds
+24,msb,most significant bit
+95,msg,message
+259,multi,multiple
+260,mv,movie
+150,mw,margin width
+208,mwls,mark wrapped lines style
+305,mx,managed extensions
+154,mx,managed extension
+215,n,mathvariable;order of generator g
+231,n,number
+213,n,nonprime
+228,n,notify
+120,n,name
+323,nam,name
+89,net,network
+140,nist,national institute standards technology
+213,nl,new line
+81,no,norway
+216,nonce,number used only once
+215,npf,nonprintable format
+288,nr,number
+278,ns,namespace
+189,nt,not
+177,num,number
+127,o,option
+298,oaep,optimal asymmetric encryption padding
+190,obj,object
+113,odf,open document format
+240,ofp,output file pointer
+55,ok,okay
+143,op,operation
+159,opt,option
+117,orig,original
+299,os,operating system
+221,os,output stream
+193,osl,operating system library
+243,out,output
+344,p,predicate
+151,p,pointer
+119,p,path
+149,p,mathvariable;dsa prime p
+273,p,pending
+178,p,page
+130,p,painter
+252,p,pipe
+123,p,postscript
+271,p,package
+224,p,mathvariable;prime of finite field
+226,p,provider
+50,p,process
+227,p,prime
+280,p2,power of 2
+138,p224,p224 curve
+141,p256,nist p256 curve
+124,p256r1,p256 curve
+144,p384,p384 curve
+147,p521,p521 curve
+214,pag,page
+229,param,parameter
+139,params,parameters
+83,paren,parentheses
+82,paren,parenthesis
+73,parens,parentheses
+246,passwd,password
+91,pc,personal computer
+231,phi,mathvariable;totient
+340,photo,photograph
+116,pkcs,public key cryptography standards
+183,pl,pagelayout
+184,pl,page layout
+160,pm,pixmap
+276,pm,power manager
+232,pollardrho,pollards rho algorithm
+126,pos,position
+234,pow,power
+212,pow,powerof
+215,pp,pointer pointer
+218,prev,previous
+235,priv,private
+258,proc,process
+236,prod,product
+110,props,properties
+219,prot,protect
+101,ps,postscript
+261,pswd,password
+239,pt,plain text
+364,pt,point
+140,ptr,pointer
+244,pub,public
+262,pw,password
+15,pwd,password
+160,pwnam,password name
+151,q,mathvariable;dsa subprime q
+106,q,qt framework
+257,q,mathvariable;order of the generator
+254,q,mathvariable;prime q
+282,q,query
+308,q,mathvariable;prime
+139,qcache,quantum cache
+220,qsv,query system value
+191,r,row
+196,r,mathvariable;encryption signature integer variable r
+133,r,rectangle
+105,r,mathvariable;encryption signature integer ecdsa variable r
+259,r,mathvariable;safe prime
+296,r,reverse
+283,r,resource
+186,r,return
+265,r,ring
+240,r,reference
+264,r,red
+286,rad,radian
+230,rand,random
+267,rbuflen,ring buffer length
+268,rbufpos,ring buffer position
+249,rc,return code
+382,realloc,reallocate
+256,rec,rectangle
+287,rect,rectangle
+65,ref,reference
+157,regexp,regular expression
+297,req,request
+306,res,response
+4,res,result
+271,res,resource
+308,resp,response
+256,ret,return
+273,retval,return value
+145,rgba,red green blue alpha
+264,rhs,right hand side
+173,ro,read only
+265,rsa,rivest shamir adleman
+274,rtl,run time library
+309,rtl,right to left
+286,s,segment
+287,s,string
+152,s,mathvariable;ecdsa private value s
+106,s,mathvariable;encryption signature integer ecdsa variable s
+197,s,mathvariable;encryption signature integer variable s
+270,s,mathvariable;private key
+62,s,stream
+58,s,space
+311,sal,system abstraction layer
+314,sax, simple api xml
+173,sc,showcase
+311,sc,scale canvas
+315,sc,system configure
+312,sdk,software development kit
+85,se,sweden
+320,sec,second
+178,seg,segment
+316,sel,select
+2,sem,semaphore
+155,sep,separator
+11,seq,sequence
+319,sfx,staroffice application framework
+316,sha,secure hash algorithm
+281,sha1,secure hash algorithm
+272,sig,signature
+273,signum,signed number
+317,sin,sine
+265,siz,size
+320,snprintf,string number print formatted
+87,spec,specification
+324,sq,strutured query
+321,sq,structured query
+320,sqr,squared
+274,sqrt,square root
+115,src,source
+44,ss,stringstream
+45,ss,string stream
+220,ssl,secure socket layer
+162,st,struct
+283,st,structure
+325,stat,struct stat
+282,stat,status
+144,stats,status
+326,stbl,sample table
+327,stco,sample table chunk offset
+321,std,standard
+103,stddev,standard deviation
+285,stderr,standard error
+178,stdin,standard input
+332,str,string
+287,strcmp,string compare
+386,strdup,string duplicate
+328,stsc,sample table sample chunk map
+329,stss,sample table sync samples
+330,stsz,sample table sizes
+331,stts,sample table time sample map
+308,subst,substitution
+233,sumsq,sum squares
+334,sunpro,sunpro compiler
+338,svx,staroffice shared library
+332,sync,synchronize
+66,sync,synchronizer
+384,sys,system
+301,t,type
+328,t,token
+277,t,test
+278,t,throwable
+251,t,top
+333,t,translation
+137,t,template
+57,t,time
+168,tb,tool bar
+279,tc,test case
+337,tk,track
+350,tl,telegram
+271,tl,top left
+367,tlrpc,telegram remote procedure call
+206,tm,time
+306,tmp,temporary
+327,toc,table of contents
+30,tok,token
+125,tr,text rectangle
+286,transfo,transformation
+232,trunc,truncate
+369,ttl,time to live
+235,txt,text
+302,u,unsigned
+59,u,user
+336,u,union
+372,u,unique
+307,u,mathvariable;pollards rho algorithm variable u
+265,u,unicode
+270,u,utf8
+380,ui,user interface
+305,uint,unsigned integer
+342,ul,underlay
+348,ul,under lay
+387,ul,unsigned long
+388,uno,universal network object
+308,unx,unix
+359,ur,upper right
+382,uri,universal resource identifier
+10,url,uniform resource locator
+346,url,universal resource locator
+47,us,user
+385,us,united states
+282,utf8,universal transformation format 8
+386,util,utility
+303,util,utilities
+387,utils,utilities
+311,v,vector
+392,v,view
+390,v,velocity
+128,v,value
+310,v,mathvariable;pollards rho algorithm variable v
+405,v,virtual
+283,v,vertex
+258,v,vertical
+158,val,value
+367,var,variable
+393,vars,variables
+389,vcl,visual class library
+396,ver,vertical
+103,vms,virtual memory system
+397,vos,virtual operating system
+394,vpa,view property animator
+52,w,width
+372,w,character width
+312,w,mathvariable;public point w
+105,w,weight
+310,w32,windows 32
+159,wdg,widget
+7,win,window
+395,wm,windows manager
+356,wnd,window
+278,x,mathvariable
+396,x,mathvariable;offset
+314,x,mathvariable;elliptic curve dsa private value
+319,x,mathvariable;affine field x
+148,x,uno reference
+156,x,mathvariable;private key x
+385,x,checked
+118,x,mathvariable;affine xcoordinate
+250,x,mathvariable;affine x coordinate
+375,x,offset
+315,x509,x509 standard specification
+403,xml,extensible markup language
+197,xor,exclusive or
+411,y,mathvariable
+387,y,offset
+159,y,mathvariable;public key y
+252,y,mathvariable;affine y coordinate

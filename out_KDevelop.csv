@@ -1,0 +1,293 @@
+Abbreviation:Expansion
+idx:index
+fl:flock
+sem:semaphore
+max:maximum
+res:result
+ret:return
+act:activation
+win:window
+app:application
+id:identificaion
+url:uniform resource locator
+info:information
+url:uniform resource locator
+int:integer
+cmd:command
+pwd:password
+exec:execute
+exec:execute
+exec:execute
+exec:execute
+exec:execute
+exec:execute
+exec:execute
+exec:execute
+exec:execute
+exec:execute
+exec:execute
+exec:execute
+info:information
+len:length
+tok:token
+ptr:pointer
+ptr:pointer
+ptr:pointer
+csv:comma separated values
+val:value
+eof:end of file
+bk:break
+pt:point
+num:number
+ptr:pointer
+id:identfication
+cmd: command
+cmd: command
+ss:stringstream
+ss:string stream
+db:database
+us:user
+ext:extension
+ident:identifier
+p:process
+id:identfication
+expr:expression
+err:error
+conn:connection
+ok:okay
+ms:millisecond
+t:time
+s:space
+u:user
+msg:message
+d:data
+s:stream
+u:user
+msg:message
+buf:buffer
+sync:synchronizer
+sync:synchronizer
+it:iterator
+it:iterator
+2:distinguisher
+it:iterator
+3:distinguisher
+parens:parentheses
+parens:parentheses
+parens:parentheses
+parens:parentheses
+char:character
+chars:characters
+char:character
+ch:character
+chars:characters
+paren:parenthesis
+paren:parentheses
+char:character
+lang:language
+lang:language
+id:identfication
+lang:language
+id:identfication
+len:length
+lang:language
+lang:language
+str:string
+lang:language
+msg:message
+m:multi
+b:byte
+len:length
+m:multi
+b:byte
+str:string
+m:multi
+b:byte
+ko:kde office
+w:weight
+q:qt framework
+lst:list
+d:docker
+dcop:desktop communication protocol library
+props:properties
+doc:document
+k:kde
+odf:open document format
+d:document
+src:source
+dst:destination
+orig:original
+dir:directory
+p:path
+n:name
+me:mouse event
+e:event
+dbl:double
+ir: icons rectangle
+tr:text rectangle
+pos:position
+o:option
+v:value
+f:font
+p:painter
+cg:color group
+cr:color role
+r:rectangle
+img:image
+opt:option
+p:pointer
+t:template
+cfg:config
+grp:group
+h:header
+tmp:temporary
+act:action
+op:operation
+c:color
+rgba:red green blue alpha
+dpi:dots per inch
+b:button
+geom:geometry
+calc:calculate
+mw:margin width
+fw:frame width
+cs:color space
+grad:gradient
+d:double spin box
+sep:separator
+low:lower
+regexp:regular expression
+val:value
+wdg:widget
+pm:pixmap
+iter:iterator
+id:identifier
+fi:file
+s:string
+arg:argument
+exec:execute
+dw:dock widget
+tb:tool bar
+a:action
+f:files
+c:collection
+f:factory
+sc:showcase
+cmd:command
+k:key
+b:bounding
+l:list
+p:page
+gui:graphical user interface
+multi:multiple
+misc:miscellaneous
+curr:current
+pl:pagelayout
+pl:page layout
+mp:master page
+bg:background
+i:interface
+dirs:directories
+strcmp:string compare
+c:col
+r:row
+c:columns
+cols:columns
+f:formula
+ex:expression
+eval:evaluate
+xor:exclusive or
+fabs:floating point absolute value
+d:double
+acos:arccosine
+acos:inverse cosine
+acosh:inverse hyperbolic cosine
+acosh:hyperbolic arccosine
+acot:inverse cotangent
+acot:arccotangent
+acoth:inverse hyperbolic cotangent
+acoth:hyperbolic arccotangent
+asin:inverse sine
+asin:arcsine
+asinh:hyperbolic arcsine
+asinh:hyperbolic inverse sine
+atan:arctangent
+atan:inverse tangent
+atanh:hyperbolic arctangent
+atanh:hyperbolic inverse tangent
+ceil:ceiling
+combin:combine
+combina:combination
+cot:cotangent
+coth:hyperbolic cotangent
+fib:fibonacci
+gcd:greatest common denominator
+lcm:lowest common multipe
+ln:natural log
+log:logarithm
+mdeterm:matrix determinant
+minverse:matrix inverse
+mod:modulo
+mmult:matrix multiplication
+rand:random
+sqrt:square root
+trunc:truncate
+sumsq:sum squares
+pow:power
+func:function
+approx:approximately
+func:function
+a:args
+fn:function
+m:min
+min:minimum
+div:divide
+eps:epsilon
+fac:factorial
+cond:condition
+args:arguments
+conv:convert
+std:standard
+dev:deviation
+f:function
+t:top
+b:bottom
+dt:delta top
+dl:delta left
+dr:delta right
+db:delta bottom
+b:bottom
+v:vertical
+align:alignment
+h:horizontal
+align:alignment
+ctx:context
+fm:font metrics
+c:cell
+siz:size
+w:width
+h:height
+dom:document object model
+desc:description
+ev:event
+tl:top left
+br: bottom right
+d:damage
+compl:completion
+mid:middle
+co:conditional
+c:condition
+ns:namespace
+dbg:debug
+id:input device
+d:device
+ccs:color conversion system
+v:vertex
+impl:implementation
+hdr:header
+transfo:transformation
+buff:buffer
+nr:number
+c:channels
+lab:cielab color space
+jis:japanese industrial standards

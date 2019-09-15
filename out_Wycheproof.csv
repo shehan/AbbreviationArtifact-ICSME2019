@@ -1,0 +1,322 @@
+Abbreviation:Expansion
+a:mathvariable;first coefficient of elliptic curve a
+a:mathvariable;parameter a of the weierstrass representation
+aad:additional authenticated data
+abs:absolute value
+aes:advanced encrpytion standard
+eax:encrypt authenticate translate
+aes:advanced encrpytion standard
+gcm:galois counter mode
+a:distinguisher
+b:distinguisher
+b:mathvariable;parameter b of the weierstrass representation
+b:mathvariable;second coefficient of elliptic curve b
+buf:buffer
+nr:number
+hex:hexadecimal
+c:cipher
+c:cipher
+0:distinguisher
+c:cipher
+1:distinguisher
+cis:cipher input stream
+cnt:count
+cos:cipher output stream
+lsb:least significant bit
+msb:most significant bit
+crt:chinese remainder theorem
+coeff:coefficient
+ct:cipher text
+ct:cipher text
+1:distinguisher
+ct:cipher text
+ct:cipher text
+hex:hexadecimal
+ct:cipher text
+ct:cipher text
+d:mathvariable;private exponent d
+dec:decryption
+dh:diffie hellman
+ies:integrated encryption scheme
+dh:diffie hellman
+spec:specification
+dh:diffie hellman
+params:parameters
+dh:diffie hellman
+dh:diffie hellman
+dp:mathvariable;prime exponent p
+dq:mathvariable;prime exponent q
+dsa:digital signature algorithm
+params:parameters
+dsa:digital signature algorithm
+dsa:digital signature algorithm
+spec:specification
+dsa:digital signature algorithm
+spec:specification
+dsa:digital signature algorithm
+e:mathvariable;public exponent e
+eax:encrypt authenticate translate
+ec:elliptic curve
+ec:elliptic curve
+ec:elliptic curve
+dh:diffie hellman
+ec:elliptic curve
+dh:diffie hellman
+ec:elliptic curve
+dh:diffie hellman
+ec:elliptic curve
+dh:diffie hellman
+ec:elliptic curve
+dsa:digital signature algorithm
+ec:elliptic curve
+dsa:digital signature algorithm
+ec:elliptic curve
+fp:finite prime
+ec:elliptic curve
+gen:generator
+spec:specification
+ec:elliptic curve
+ies:integrated encryption scheme
+ec:elliptic curve
+ies:integrated encryption scheme
+a:distinguisher
+ec:elliptic curve
+ies:integrated encryption scheme
+b:distinguisher
+ec:elliptic curve
+ies:integrated encryption scheme
+ec:elliptic curve
+spec:specification
+ec:elliptic curve
+params:parameters
+ec:elliptic curve
+ec:elliptic curve
+ec:elliptic curve
+ec:elliptic curve
+spec:specification
+ec:elliptic curve
+ec:elliptic curve
+spec:specification
+ec:elliptic curve
+elem:element
+enc:encode
+eq:equals
+ex:exception
+stddev:standard deviation
+k:mathvariable;encryption signature integer ecdsa variable k
+r:mathvariable;encryption signature integer ecdsa variable r
+s:mathvariable;encryption signature integer ecdsa variable s
+f:mathvariable;greatest common denominator f
+fp:finite prime
+g:generator
+g:groups
+gcd:greatest common denominator
+gcm:galois counter mode
+gcm:galois counter mode
+spec:specification
+gcm:galois counter mode
+pkcs:public key cryptography standards
+a:mathvariable; first coefficient of elliptic curve a
+x:mathvariable;affine xcoordinate
+y:mathvariable;affine y coordinate
+int:integer
+json:javascript object notation
+json:javascript object notation
+b:mathvariable;second coefficient of elliptic curve b
+p256r1:p256 curve
+params:parameters
+cpu:central processing unit
+spec:specification
+ref:reference
+ek:encryption key
+ek:encryption key
+ek:encryption key
+pkcs:public key cryptography standards
+ek:encryption key
+ek:encryption key
+g:mathvariable;dsa base g
+l:length
+nist:national institute standards technology
+p224:p224 curve
+params:parameters
+nist:national institute standards technology
+p256:nist p256 curve
+params:parameters
+nist:national institute standards technology
+p384:p384 curve
+params:parameters
+nist:national institute standards technology
+p521:p521 curve
+params:parameters
+p:mathvariable;dsa prime p
+params:parameters
+q:mathvariable;dsa subprime q
+s:mathvariable;ecdsa private value s
+spec:specification
+mx:managed extension
+w:mathvariable;public point w
+x:mathvariable;private key x
+x509:x509 standard specification
+spec:specification
+y:mathvariable;public key y
+gy:mathvariable;y coordinate of generator
+h:mathvariable;cofactor
+h:mathvariable;truncated messaage digest
+hi:high
+idx:index
+ike:internet key exchange
+ike:internet key exchange
+in:input
+buf:buffer
+init:initialize
+init:initialize
+init:initialize
+init:initialize
+ro:read only
+spec:specification
+is:input stream
+cpu:central processing unit
+cpu:central processing unit
+ber:basic encoding rules
+der:distinguished encoding rules
+iv:initialization vector
+iv:initialization vector
+spec:specification
+json:javascript object notation
+json:javascript object notation
+k:mathvariable;encryption signature integer variable k
+ka:key agreement
+a:distinguisher
+ka:key agreement
+b:distinguisher
+kem:key encapsulation mechanism
+gen:generator
+kf:key factory
+l:mathvariable;weak public key variable l
+lang:language
+diff:difference
+r:mathvariable;encryption signature integer variable r
+s:mathvariable;encryption signature integer variable s
+lhs:left hand side
+lo:low
+max:maximum
+max:maximum
+md:message digest
+mgf:mask generation function
+min:minimum
+min:minimum
+mod:modulo
+pub:public
+pub:public
+spec:specification
+mod:modulo
+mod:modulo
+pow:powerof
+n:nonprime
+n:mathvariable;order of generator g
+n:mathvariable;order of generator g
+nonce:number used only once
+num:number
+jdk:javase development kit
+jdk:javase development kit
+ssl:secure socket layer
+os:output stream
+out:output
+buf:buffer
+p:mathvariable;prime of finite field
+p:mathvariable;prime of finite field
+p:provider
+p:prime
+1:distinguisher
+param:parameter
+params:parameters
+phi:mathvariable;totient
+pollardrho:pollards rho algorithm
+ln:line
+priv:private
+priv:private
+prod:product
+pt:plain text
+pt:plain text
+pt:plain text
+hex:hexadecimal
+pt:plain text
+pub:public
+pub:public
+pub:public
+pub:public
+spec:specification
+pub:public
+w:mathvariable;public point w
+pub:public
+x:mathvariable;affine x coordinate
+pub:public
+y:mathvariable;affine y coordinate
+q:mathvariable;order of the generator
+q:mathvariable;prime q
+1:distinguisher
+q:mathvariable;order of the generator
+q:mathvariable;order of the generator
+r:mathvariable;encryption signature integer ecdsa variable r
+r:mathvariable;safe prime
+r:mathvariable;encryption signature integer ecdsa variable r
+2:distinguisher
+rand:random
+pt:plain text
+rhs:right hand side
+rsa:rivest shamir adleman
+1:distinguisher
+rsa:rivest shamir adleman
+rsa:rivest shamir adleman
+s:mathvariable;encryption signature integer ecdsa variable s
+s:mathvariable;private key
+spec:specification
+sig:signature
+signum:signed number
+sqrt:square root
+r:mathvariable;encryption signature integer ecdsa variable r
+s:mathvariable;encryption signature integer ecdsa variable s
+t:test
+t:throwable
+tc:test case
+id:identifier
+sha1:secure hash algorithm
+dsa:digital signature algorithm
+iv:initialization vector
+spec:specification
+dh:diffie hellman
+dh:diffie hellman
+dsa:digital signature algorithm
+eax:encrypt authenticate translate
+ec:elliptic curve
+dsa:digital signature algorithm
+ec:elliptic curve
+ies:integrated encryption scheme
+ec:elliptic curve
+ies:integrated encryption scheme
+aes:advanced encrpytion standard
+cbc:cipher block chaining
+pkcs:public key cryptography standards
+oaep:optimal asymmetric encryption padding
+iv:initialization vector
+aad:additional authenticated data
+ecb:electronic code book
+rsa:rivest shamir adleman
+util:utilities
+ecdhc:elliptic curve diffie hellman cofactor
+mx:managed extensions
+tmp:temporary
+u:mathvariable;pollards rho algorithm variable u
+q:mathvariable;prime
+aad:additional authenticated data
+v:mathvariable;pollards rho algorithm variable v
+v:vector
+w:mathvariable;public point w
+spec:specification
+x:mathvariable;elliptic curve dsa private value
+x509:x509 standard specification
+spec:specification
+x509:x509 standard specification
+spec:specification
+x:mathvariable;affine field x
+sqr:squared

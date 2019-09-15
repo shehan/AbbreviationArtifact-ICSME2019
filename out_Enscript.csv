@@ -1,0 +1,390 @@
+Abbreviation:Expansion
+afm:adobe font metrics
+afm:adobe font metrics
+afm:adobe font metrics
+info:information
+afm:adobe font metrics
+afm:adobe font metrics
+ch:character
+ctrl:control
+d:distinguisher
+arg:argument
+c:count
+arg:argument
+v:value
+atan:arctangent
+2:distinguisher
+a:american standard code for information interchange
+f:float
+a:american standard code for information interchange
+i:integer
+b:blue
+bg:background
+bs:backspace
+buf:buffer
+buf:buffer
+2:distinguisher
+alloc:allocate
+len:length
+init:initialize
+ptr:pointer
+init:initialize
+c:character
+info:information
+cfg:configure
+char:character
+cmd:command
+cmd:command
+len:length
+cofp:current output file pointer
+col:column
+st:struct
+cour:courier
+cp:character pointer
+cp:character pointer
+2:distinguisher
+ctx:context
+num:number
+num:number
+d:dimension
+h:height
+d:dimension
+h:height
+d:dimension
+w:width
+d:dimension
+h:height
+d:dimension
+w:width
+d:dimension
+x:mathvariable
+d:dimension
+y:mathvariable
+d:dimension
+h:height
+d:dimension
+w:width
+buf:buffer
+char:character
+f:font
+f:font
+f:font
+pt:point
+f:file
+p:pointer
+ps:postscript
+ps:postscript
+ps:postscript
+enc:encode
+ascii:american standard code information interchange
+enc:encode
+ascii:american standard code information interchange
+dk:denmark
+no:norway
+enc:encode
+ascii:american standard code information interchange
+fi:finland
+se:sweden
+enc:encode
+hp:hewlett packard
+8:distinguisher
+enc:encode
+ibm:international business machines
+pc:personal computer
+enc:encode
+iso:international standards organization
+enc:encode
+iso:international standards organization
+enc:encode
+koi:kod obmena informatsiey
+enc:encode
+mac:macintosh
+enc:encode
+ps:postscript
+enc:encode
+vms:virtual memory system
+enc:encode
+p:pointer
+enum:enumerator
+epsf:encapsulated postscript file
+errno:error number
+esc:escape
+bg:background
+esc:escape
+bg:background
+esc:escape
+esc:escape
+esc:escape
+epsf:encapsulated postscript file
+esc:escape
+esc:escape
+esc:escape
+x:mathvariable
+esc:escape
+esc:escape
+p:postscript
+esc:escape
+x:mathvariable
+esc:escape
+esc:escape
+esc:escape
+char:character
+f:flag
+epsf:encapsulated postscript file
+f:flag
+epsf:encapsulated postscript file
+c:current
+f:file
+f:file
+f:file
+s:string
+p:predicate
+ctx:context
+st:struct
+num:number
+f:font
+f:file
+b:bounding
+ll:lower left
+y:mathvariable
+c:character
+f:file
+f:file
+p:pointer
+f:file
+f:format
+f:font
+pt:point
+f:file
+g:green
+cwd:current working directory
+opt:option
+pwnam:password name
+gs:gnu enscript
+st:struct
+h:height
+env:environment
+lc:locale
+hdr:header
+hdr:header
+hf:header font
+hf:header font
+pt:point
+hl:highlight
+i:integer
+i:index
+in:input
+p:pointer
+num:number
+num:number
+stdin:standard input
+int:integer
+is:input stream
+is:input stream
+c:character
+toc:table of contents
+kv:key value
+c:carriage
+r:return
+le:line end
+char:character
+lib:library
+spec:specification
+num:number
+pos:position
+w:width
+ll:lower left
+x:mathvariable
+ll:lower left
+y:mathvariable
+m:mask
+epsf:encapsulated postscript file
+spec:specification
+st:struct
+memcpy:memory copy
+mfp:message file pointer
+chars:characters
+mod:modification
+tm:time
+msg:message
+mwls:mark wrapped lines style
+n:number
+col:column
+x:mathvariable
+y:mathvariable
+nl:new line
+chars:characters
+npf:nonprintable format
+npf:nonprintable format
+n:number
+num:number
+num:number
+num:number
+chars:characters
+num:number
+chars:characters
+num:number
+n:number
+n:number
+n:number
+n:number
+exp:exponent
+n:number
+n:number
+n:number
+n:number
+n:number
+n:number
+x:mathvariable
+n:number
+y:mathvariable
+ofp:output file pointer
+ofp:output file pointer
+opt:option
+arg:argument
+out:output
+p:pointer
+st:struct
+passwd:password
+epsf:encapsulated postscript file
+max:maximum
+proc:process
+p:pipe
+cmd:command
+p:pipe
+pos:position
+ctx:context
+ctx:context
+rec:rectangle
+ctx:context
+proc:process
+ps:postscript
+ps:postscript
+pswd:password
+pw:password
+param:parameter
+r:red
+r:ring
+buf:buffer
+rbuflen:ring buffer length
+rbufpos:ring buffer position
+config:configure
+eps:encapsulated postscript
+res:resource
+dsc:document structuring conventions
+retval:return value
+tm:time
+buf:buffer
+buf:buffer
+len:length
+buf:buffer
+pos:position
+s:string
+f:format
+stat:status
+st:structure
+dict:dictionary
+stderr:standard error
+str:string
+strcmp:string compare
+str:string
+str:string
+f:format
+ptr:pointer
+str:string
+n:number
+cmp:compare
+str:string
+r:reverse
+chr:character
+t:type
+bg:background
+t:type
+t:type
+t:type
+eof:end of file
+t:type
+epsf:encapsulated postscript file
+t:type
+t:type
+subst:substitution
+t:type
+x:mathvariable
+tm:time
+tm:time
+tm:time
+m:month
+tm:time
+min:minute
+tm:time
+mon:month
+tm:time
+sec:second
+tmp:temporary
+tmp:temporary
+nam:name
+t:type
+t:type
+t:type
+toc:table of contents
+t:token
+ps:postscript
+t:type
+x:mathvariable
+t:type
+t:type
+t:type
+t:type
+u:union
+ul:underlay
+ul:underlay
+p:predicate
+ul:underlay
+ul:underlay
+ul:underlay
+ul:underlay
+p:predicate
+ul:underlay
+pt:point
+ul:underlay
+ul:under lay
+str:string
+ul:underlay
+x:mathvariable
+ul:underlay
+y:mathvariable
+alloc:allocate
+ch:character
+pos:position
+ur:upper right
+x:mathvariable
+ur:upper right
+y:mathvariable
+bg:background
+p:predicate
+p:predicate
+pt:point
+p:predicate
+val:value
+var:variable
+w:width
+w:character width
+0:distinguisher
+x:mathvariable
+w:character width
+0:distinguisher
+y:mathvariable
+x:offset
+x:checked
+calloc:contiguous allocate
+x:checked
+x:checked
+malloc:memory allocate
+x:checked
+realloc:reallocate
+x:mathvariable
+x:mathvariable
+x:checked
+strdup:string duplicate
+y:offset
+y:mathvariable

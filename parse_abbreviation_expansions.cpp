@@ -19,7 +19,7 @@ void ParseGoldSet(std::string filename){
             case ',':{
                 switch(column){
                     case ORIGINAL_IDENTIFIER_COLUMN:{   
-                        std::cout<<"Original Identifier: "<<token<<std::endl;
+                        //std::cout<<"Original Identifier: "<<token<<std::endl;
                         break;
                     }
                     case ABBREV_EXPANSION_COLUMN:{
@@ -31,14 +31,16 @@ void ParseGoldSet(std::string filename){
                             }
                             if(c == '-'){
                                 count_unique_abbreviations.insert(abbrev +":"+expansion);
-                                std::cout<<"Abbrev and Expansion: "<<abbrev +":"+expansion<<std::endl;
+                                //std::cout<<"Abbrev and Expansion: "<<abbrev +":"+expansion<<std::endl;
+                                std::cout<<abbrev +":"+expansion<<std::endl;
                                 abbrev.clear();
                                 expansion.clear();
                                 seencolon = false;
                             }
                             if(c == ')'){
                                 count_unique_abbreviations.insert(abbrev +":"+expansion);
-                                std::cout<<"Abbrev and Expansion: "<<abbrev +":"+expansion<<std::endl;
+                                //std::cout<<"Abbrev and Expansion: "<<abbrev +":"+expansion<<std::endl;
+                                std::cout<<abbrev +":"+expansion<<std::endl;
                                 abbrev.clear();
                                 expansion.clear();
                                 seencolon = false;

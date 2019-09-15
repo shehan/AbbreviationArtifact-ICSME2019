@@ -1,0 +1,407 @@
+Abbreviation:Expansion
+a:value
+hdl:handle
+a:value
+iter:iterator
+a:value
+mod:module
+a:value
+pos:position
+a:value
+ret:return
+a:value
+seq:sequence
+a:value
+str:string
+url:uniform resource locator
+a:value
+str:string
+a:value
+url:uniform resource locator
+a:value
+addr:address
+alloc:allocate
+alt:alternate
+anon:anonymous
+api:application programmer interface
+ret:return
+atts:attributes
+b:boolean
+fmt:format
+b:boolean
+fmt:format
+b:boolean
+val:value
+b:boolean
+b:boolean
+b:boolean
+b:boolean
+b:boolean
+b:boolean
+bsd:berkley software distribution
+cnt:content
+http:hypertext transfer protocol
+cnt:content
+http:hypertext transfer protocol
+const:constant
+cur:current
+id:identifier
+decl:declare
+abst:abstract
+dlg:dialog
+decl:declare
+def:define
+dos:disk operating system
+alloc:allocate
+mem:memory
+dw:double word
+e:enumeration
+hor:horizontal
+e:enumeration
+ver:vertical
+e:enumerator
+e:enumerator
+e:enumerator
+eng:engine
+err:error
+f:file
+f:format
+f:float
+x:mathvariable
+f:float
+y:mathvariable
+f:segment
+fini:finish
+fm:file map
+cols:columns
+fm:file map
+impl:implementation
+fm:file map
+impl:implementation
+fm:file map
+fm:file map
+fm:file map
+g:global
+gp:global pointer
+hdl:handle
+hdl:handle
+hor:horizontal
+i:index
+i:interface
+net:network
+url:uniform resource locator
+id:identifier
+id:identifier
+img:image
+ver:vertical
+impl:implement
+abst:abstract
+dlg:dialog
+impl:implementation
+impl:implementation
+impl:implementation
+int:integer
+lang:language
+lib:library
+lnk:link
+lp:long pointer
+m:member
+0:distinguisher
+m:member
+a:value
+dlg:dialog
+hdl:handle
+m:member
+a:value
+m:member
+a:value
+m:member
+a:value
+m:member
+addr:address
+m:member
+alloc:allocate
+m:member
+f:segment
+m:member
+f:segment
+m:member
+n:number
+m:member
+n:number
+m:member
+p:pointer
+dlg:dialog
+m:member
+p:pointer
+m:member
+qcache:quantum cache
+max:maximum
+m:member
+qcache:quantum cache
+ptr:pointer
+m:member
+s:segment
+m:member
+stats:status
+m:member
+x:uno reference
+m:member
+x:uno reference
+m:member
+x:uno reference
+m:member
+m:member
+m:member
+m:member
+m:member
+m:member
+m:member
+m:member
+m:memory
+s:segment
+mem:memory
+mem:memory
+mess:message
+n:number
+btn:button
+id:identifier
+n:number
+id:identifier
+n:number
+lang:language
+n:number
+len:length
+n:number
+len:length
+n:number
+len:length
+n:number
+seg:segment
+n:number
+n:number
+n:number
+n:number
+n:number
+n:number
+n:number
+n:number
+net:network
+bsd:berkley software distribution
+nt:not
+obj:object
+osl:operating system library
+cond:condition
+osl:operating system library
+p:pointer
+addr:address
+p:pointer
+attr:attribute
+p:pointer
+desc:description
+p:pointer
+dlg:dialog
+p:pointer
+res:resource
+mgr:manager
+p:pointer
+url:uniform resource locator
+p:pointer
+p:pointer
+p:pointer
+p:pointer
+p:pointer
+p:pointer
+p:pointer
+pag:page
+pp:pointer pointer
+prev:previous
+hdl:handle
+prev:previous
+prot:protect
+qsv:query system value
+r:reference
+attrs:attributes
+r:reference
+hdl:handle
+r:reference
+hdl:handle
+r:reference
+n:notify
+evt:event
+r:reference
+p:pointer
+r:reference
+str:string
+r:reference
+txt:text
+r:reference
+url:uniform resource locator
+r:reference
+x:uno reference
+r:reference
+r:reference
+r:reference
+r:reference
+r:reference
+r:reference
+r:reference
+r:reference
+r:reference
+rc:return code
+res:resource
+id:identifier
+res:resource
+mgr:manager
+res:resource
+mgr:manager
+ret:return
+ret:return
+ret:return
+rtl:run time library
+ascii:american standard code information exchange
+us:united states
+rtl:run time library
+const:constant
+ascii:american standard code information exchange
+u:unicode
+param:parameter
+rtl:run time library
+const:constant
+ascii:american standard code information exchange
+u:utf8
+param:parameter
+rtl:run time library
+fini:finish
+rtl:run time library
+init:initialize
+rtl:run time library
+machdep:machine dependent
+alloc:allocat
+rtl:run time library
+p2:power of 2
+rtl:run time library
+utf8:universal transformation format 8
+rtl:run time library
+rtl:run time library
+rtl:run time library
+s:segment
+s:string
+id:identifier
+s:string
+id:identifier
+s:string
+s:string
+sal:system abstraction layer
+int:integer
+32:distinguisher
+sal:system abstraction layer
+int:integer
+sal:system abstraction layer
+os:operating system
+2:distinguisher
+sal:system abstraction layer
+u:unsigned
+int:integer
+sal:system abstraction layer
+uint:unsigned integer
+ptr:pointer
+sal:system abstraction layer
+unx:unix
+sal:system abstraction layer
+w32:windows 32
+sal:system abstraction layer
+sal:system abstraction layer
+sal:system abstraction layer
+sax: simple api xml
+sc:system configure
+sel:select
+sfx:staroffice application framework
+sfx:staroffice application framework
+sfx:staroffice application framework
+snprintf:string number print formatted
+std:standard
+str:string
+btn:button
+str:string
+btn:button
+str:string
+btn:button
+str:string
+n:number
+cmp:compare
+str:string
+str:string
+str:string
+sunpro:sunpro compiler
+c:c programming language
+sunpro:sunpro compiler
+cc:c++ programming language
+svx:staroffice shared library
+corr:correct
+cfg:configuration
+svx:staroffice shared library
+desc:describe
+impl:implementation
+svx:staroffice shared library
+desc:description
+svx:staroffice shared library
+desc:description
+svx:staroffice shared library
+h:handler
+dlg:dialog
+wnd:window
+impl:implementation
+svx:staroffice shared library
+h:handler
+dlg:dialog
+wnd:window
+svx:staroffice shared library
+hp:hewlett packard
+dlg:dialog
+svx:staroffice shared library
+impl:implementation
+svx:staroffice shared library
+impl:implementation
+svx:staroffice shared library
+mess:message
+impl:implementation
+svx:staroffice shared library
+mess:message
+svx:staroffice shared library
+multi:multiple
+svx:staroffice shared library
+multi:multiple
+svx:staroffice shared library
+svx:staroffice shared library
+svx:staroffice shared library
+svx:staroffice shared library
+svx:staroffice shared library
+svx:staroffice shared library
+svx:staroffice shared library
+svx:staroffice shared library
+svx:staroffice shared library
+svx:staroffice shared library
+svx:staroffice shared library
+sys:system
+conf:configure
+t:type
+ul:unsigned long
+uno:universal network object
+vcl:visual class library
+2:distinguisher
+impl:implementation
+vcl:visual class library
+impl:implementation
+vcl:visual class library
+impl:implementation
+ver:vertical
+vos:virtual operating system
+x:uno reference
+loc:locator
+x:uno reference
+xml:extensible markup language
+char:character
+xml:extensible markup language
+ifc:interface
+v:virtual

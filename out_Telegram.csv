@@ -1,0 +1,427 @@
+Abbreviation:Expansion
+2:to
+abs:absolute value
+ack:acknowledge
+ack:acknowledge
+ack:acknowledge
+ack:acknowledge
+addr:address
+aes:advanced encryption standard
+iv:initialization vector
+aes:advanced encryption standard
+anim:animator
+app:application
+id:identifier
+app:application
+app:application
+app:application
+app:application
+app:application
+app:application
+args:arguments
+arr:array
+async:asynchronous
+at:animate to
+x:mathvariable
+at:animate to
+y:mathvariable
+auth:authorization
+auto:automatically
+av:animation value
+b:bytes
+bb:byte buffer
+bool:boolean
+bool:boolean
+bool:boolean
+buf:buffer
+buff:buffer
+c:center
+x:mathvariable
+c:center
+y:mathvariable
+c:constants
+calc:calculate
+cap:capitalize
+cc:character code
+char:character
+compat:compatibility
+compat:compatibility
+config:configuration
+config:configuration
+config:configuration
+config:configuration
+config:configuration
+coords:coordinates
+2:distinguisher
+coords:coordinates
+coords:coordinates
+coords:coordinates
+cos:cosine
+curr:current
+x:mathvariable
+curr:current
+y:mathvariable
+d:data
+info:information
+d:data
+ref:reference
+d:debug
+d:delta
+x:mathvariable
+d:delta
+x:mathvariable
+d:delta
+x:mathvariable
+d:delta
+y:mathvariable
+d:double
+d:draft
+id:identifier
+d:draft
+id:identifier
+dc:data center
+dc:datacenter
+dict:dictionary
+diff:difference
+dip:device independent pixel
+dir:directory
+dir:directory
+dns:domain name server
+config:configuration
+dns:domain name server
+dp:device independent pixel
+dt:delta time
+e:error
+e:event
+e:exception
+ev:event
+f:file
+fc:file channel
+fos:file output stream
+gcd:greatest common denominator
+gcm:google cloud messaging
+gcm:google cloud messaging
+gcm:google cloud messaging
+gif:graphics interchange format
+guid:globally unique identifier
+guid:globally unique identifier
+guid:globally unique identifier
+guid:globally unique identifier
+guid:globally unique identifier
+guid:globally unique identifier
+guid:globally unique identifier
+h:height
+hdlr:handler
+hex:hexadecimal
+hex:hexadecimal
+i:integer
+i:interface
+ic:icon
+ab:action bar
+ic:icon
+id:identifier
+id:identifier
+id:identifier
+id:identifier
+id:identifier
+id:identifier
+id:identifier
+id:identifier
+id:identifier
+id:identifier
+id:identifier
+id:identifier
+id:identifier
+id:identifier
+id:identifier
+id:identifier
+id:identifier
+id:identifier
+id:identifier
+id:identifier
+id:identifier
+id:identifier
+id:identifier
+id:identifier
+id:identifier
+id:identifier
+ime:input method editor
+ime:input method editor
+impl:implementation
+impl:implementation
+in:input
+buf:buffer
+in:input
+info:information
+info:information
+info:information
+info:information
+info:information
+info:information
+info:information
+info:information
+info:information
+info:information
+init:initialize
+libs:libraries
+init:initialize
+init:initialize
+inited:initialized
+int:integer
+int:integer
+int:integer
+int:integer
+int:integer
+int:integer
+int:integer
+int:integer
+int:integer
+int:integer
+int:integer
+io:input output
+ip:internet protocol
+ip:internet protocol
+is:input stream
+iso:international standards organization
+iso:international standards organization
+iso:international standards organization
+iso:international standards organization
+json:javascript object notation
+l:length
+l:limit
+lang:language
+lang:language
+len:length
+m:media
+dat:data
+m:media
+dat:data
+m:media
+dat:data
+m:media
+dat:data
+m:media
+dat:data
+m:media
+inf:information
+m:member
+m:member
+m:member
+m:member
+m:member
+m:member
+m:member
+m:member
+m:member
+m:member
+m:member
+m:member
+m:member
+m:message
+id:identifier
+m:message
+ids:identifiers
+max:maximum
+h:height
+max:maximum
+id:identifier
+max:maximum
+id:identifier
+max:maximum
+w:width
+max:maximum
+x:mathvariable
+max:maximum
+y:mathvariable
+max:maximum
+max:maximum
+max:maximum
+md:media
+hd:header
+mdia:media
+millis:milliseconds
+min:minimum
+max:maximum
+min:minimum
+max:maximum
+min:minimum
+x:mathvariable
+min:minimum
+y:mathvariable
+min:minimum
+mk:make
+dirs:directories
+moov:moviebox
+mp4: moving picture experts group
+ms:milliseconds
+msg:message
+id:identifier
+msg:message
+id:identifier
+multi:multiple
+mv:movie
+hd:header
+net:network
+info:information
+num:number
+obj:object
+os:operating system
+out:output
+buf:buffer
+out:output
+out:output
+p:package
+info:information
+p:pending
+params:parameters
+params:parameters
+pm:power manager
+prev:previous
+x:mathvariable
+prev:previous
+y:mathvariable
+prev:previous
+q:query
+r:resource
+rad:radian
+rad:radian
+rad:radian
+rect:rectangle
+f:float
+rect:rectangle
+f:float
+rect:rectangle
+rect:rectangle
+rect:rectangle
+rect:rectangle
+req:request
+id:identifier
+req:request
+id:identifier
+req:request
+id:identifier
+req:request
+id:identifier
+req:request
+req:request
+res:response
+res:response
+resp:response
+resp:response
+rtl:right to left
+s:string
+sc:scale canvas
+sdk:software development kit
+int:integer
+sha:secure hash algorithm
+a:distinguisher
+sha:secure hash algorithm
+sin:sine
+spec:specification
+spec:specification
+spec:specification
+sq:structured query
+sq:strutured query
+sq:strutured query
+sq:strutured query
+stat:struct stat
+stbl:sample table
+stco:sample table chunk offset
+stsc:sample table sample chunk map
+stss:sample table sync samples
+stsz:sample table sizes
+stts:sample table time sample map
+sync:synchronize
+t:translation
+x:mathvariable
+t:translation
+y:mathvariable
+tk:track
+hd:header
+tl:telegram
+photo:photograph
+tl:telegram
+url:universal resource locator
+tl:telegram
+url:universal resource locator
+tl:telegram
+url:universal resource locator
+tl:telegram
+tl:telegram
+tl:telegram
+tl:telegram
+tl:telegram
+tl:telegram
+tl:telegram
+tl:telegram
+tl:telegram
+tl:telegram
+tl:telegram
+tl:telegram
+tl:telegram
+tl:telegram
+tl:telegram
+tl:telegram
+tl:telegram
+tl:telegram
+tl:telegram
+tl:telegram
+tlrpc:telegram remote procedure call
+tlrpc:telegram remote procedure call
+ttl:time to live
+ttl:time to live
+ttl:time to live
+u:unique
+id:identifier
+u:unsigned
+int:integer
+u:unsigned
+int:integer
+u:user
+ui:user interface
+ui:user interface
+ui:user interface
+uri:universal resource identifier
+url:uniform resource locator
+url:uniform resource locator
+us:united states
+util:utility
+utils:utilities
+v:velocity
+x:mathvariable
+v:velocity
+y:mathvariable
+v:view
+vars:variables
+vpa:view property animator
+wm:windows manager
+x:mathvariable;offset
+x:mathvariable
+x:mathvariable
+x:mathvariable
+x:mathvariable
+x:mathvariable
+x:mathvariable
+x:mathvariable
+x:mathvariable
+x:mathvariable
+x:mathvariable
+x:mathvariable
+x:mathvariable
+x:mathvariable
+x:mathvariable
+y:mathvariable
+y:mathvariable
+y:mathvariable
+y:mathvariable
+y:mathvariable
+y:mathvariable
+y:mathvariable
+y:mathvariable
+y:mathvariable
+y:mathvariable
+y:mathvariable
+y:mathvariable
+y:mathvariable
+y:mathvariable
+y:mathvariable
